@@ -1,5 +1,6 @@
-# decipher-the-impossible
-Nobody yet deciphered the message. Can you?
+# Decipher the impossible
+
+Nobody yet deciphered the message, including me. Can you?
 
 ## The puzzle
 
