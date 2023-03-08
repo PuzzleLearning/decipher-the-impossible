@@ -40,3 +40,7 @@ I have a suspicious some characters maybe be scrambled, possibly lot of slash/ba
 #### Using ciphey with a custom word list
 
 Maybe it's not written in English language, so the ngram analysis fail. 
+
+#### The encrypted entity is not actually a text, but a set of emojis. 
+
+Self-explanatory, investigate
