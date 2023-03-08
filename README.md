@@ -31,6 +31,12 @@ In the result, nothing usefull is returned at all. Program kind of freezes on th
 
 ## Next steps to try
 
-### Using ciphey with a custom word list
+### Ciphey tuning
+
+#### Lot of escape chars in the text
+
+I have a suspicious some characters maybe be scrambled, possibly lot of slash/backslash sequences attack automated decyphers like cyphey
+
+#### Using ciphey with a custom word list
 
 Maybe it's not written in English language, so the ngram analysis fail. 
