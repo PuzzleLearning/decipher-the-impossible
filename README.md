@@ -44,3 +44,7 @@ Maybe it's not written in English language, so the ngram analysis fail.
 #### The encrypted entity is not actually a text, but a set of emojis. 
 
 Self-explanatory, investigate
+
+### Encrypted text is actually a computer code
+
+Encrypted Python code? Isoteric programming language? 
