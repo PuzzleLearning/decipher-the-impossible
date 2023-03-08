@@ -15,3 +15,22 @@ Nobody yet deciphered the message, including me. Can you?
 `3. $+3/\/\/\/\1/\/6`
 
 `4. $0I_I/\/|)3><`
+
+## Cracking it
+
+### Automated approach 
+
+I tried to use the `ciphey` tool (available here: [Ciphey](https://github.com/Ciphey/Ciphey)) for checking out-of-box all common cipher techniques with a single command. 
+
+```bash
+brew install ciphey
+ciphey -t "the text from the puzzle..."
+```
+
+In the result, nothing usefull is returned at all. Program kind of freezes on the "thinking" stage, without yielding anything more for the whole 10 mintes. This framework doesn't seem to paralelize well on the MacOS system (only one cpu core is used).  
+
+## Next steps to try
+
+### Using ciphey with a custom word list
+
+Maybe it's not written in English language, so the ngram analysis fail. 
