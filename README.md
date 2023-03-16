@@ -48,3 +48,7 @@ Self-explanatory, investigate
 ### Encrypted text is actually a computer code
 
 Encrypted Python code? Isoteric programming language? 
+
+### Brute-forcing my way in? 
+
+Maybe we could check all possible combinations of association table within the alfanumerical alphabet (optionally with special characters), together with checking if the output is a real language (human or a programming code). 
