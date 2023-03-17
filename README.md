@@ -45,6 +45,12 @@ Maybe it's not written in English language, so the ngram analysis fail.
 
 Self-explanatory, investigate
 
+#### More tools to try
+
+* [cipher-crypt](https://github.com/arosspope/cipher-crypt)
+* [CTF-CryptoTool](https://github.com/karma9874/CTF-CryptoTool)
+* [Decodify](https://github.com/s0md3v/Decodify)
+
 ### Encrypted text is actually a computer code
 
 Encrypted Python code? Isoteric programming language? 
